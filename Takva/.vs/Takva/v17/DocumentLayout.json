@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\Takva\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE694E8-FED6-4CB9-8938-6A3754DEB641}|Takva\\Takva.csproj|C:\\Users\\Asus\\source\\repos\\Takva\\takva\\namaz_vakitleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFE694E8-FED6-4CB9-8938-6A3754DEB641}|Takva\\Takva.csproj|solutionrelative:takva\\namaz_vakitleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE694E8-FED6-4CB9-8938-6A3754DEB641}|Takva\\Takva.csproj|c:\\users\\asus\\source\\repos\\takva\\takva\\namaz_vakitleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE694E8-FED6-4CB9-8938-6A3754DEB641}|Takva\\Takva.csproj|solutionrelative:takva\\namaz_vakitleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE694E8-FED6-4CB9-8938-6A3754DEB641}|Takva\\Takva.csproj|C:\\Users\\Asus\\source\\repos\\Takva\\takva\\zikirler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFE694E8-FED6-4CB9-8938-6A3754DEB641}|Takva\\Takva.csproj|solutionrelative:takva\\zikirler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE694E8-FED6-4CB9-8938-6A3754DEB641}|Takva\\Takva.csproj|C:\\Users\\Asus\\source\\repos\\Takva\\takva\\kilinan_namazlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFE694E8-FED6-4CB9-8938-6A3754DEB641}|Takva\\Takva.csproj|solutionrelative:takva\\kilinan_namazlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE694E8-FED6-4CB9-8938-6A3754DEB641}|Takva\\Takva.csproj|C:\\Users\\Asus\\source\\repos\\Takva\\takva\\kaza_namazlari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFE694E8-FED6-4CB9-8938-6A3754DEB641}|Takva\\Takva.csproj|solutionrelative:takva\\kaza_namazlari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE694E8-FED6-4CB9-8938-6A3754DEB641}|Takva\\Takva.csproj|C:\\Users\\Asus\\source\\repos\\Takva\\takva\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFE694E8-FED6-4CB9-8938-6A3754DEB641}|Takva\\Takva.csproj|solutionrelative:takva\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE694E8-FED6-4CB9-8938-6A3754DEB641}|Takva\\Takva.csproj|C:\\Users\\Asus\\source\\repos\\Takva\\takva\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFE694E8-FED6-4CB9-8938-6A3754DEB641}|Takva\\Takva.csproj|solutionrelative:takva\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE694E8-FED6-4CB9-8938-6A3754DEB641}|Takva\\Takva.csproj|C:\\Users\\Asus\\source\\repos\\Takva\\takva\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFE694E8-FED6-4CB9-8938-6A3754DEB641}|Takva\\Takva.csproj|solutionrelative:takva\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE694E8-FED6-4CB9-8938-6A3754DEB641}|Takva\\Takva.csproj|c:\\users\\asus\\source\\repos\\takva\\takva\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE694E8-FED6-4CB9-8938-6A3754DEB641}|Takva\\Takva.csproj|solutionrelative:takva\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE694E8-FED6-4CB9-8938-6A3754DEB641}|Takva\\Takva.csproj|c:\\users\\asus\\source\\repos\\takva\\takva\\kilinan_namazlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE694E8-FED6-4CB9-8938-6A3754DEB641}|Takva\\Takva.csproj|solutionrelative:takva\\kilinan_namazlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE694E8-FED6-4CB9-8938-6A3754DEB641}|Takva\\Takva.csproj|c:\\users\\asus\\source\\repos\\takva\\takva\\zikirler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE694E8-FED6-4CB9-8938-6A3754DEB641}|Takva\\Takva.csproj|solutionrelative:takva\\zikirler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE694E8-FED6-4CB9-8938-6A3754DEB641}|Takva\\Takva.csproj|c:\\users\\asus\\source\\repos\\takva\\takva\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE694E8-FED6-4CB9-8938-6A3754DEB641}|Takva\\Takva.csproj|solutionrelative:takva\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE694E8-FED6-4CB9-8938-6A3754DEB641}|Takva\\Takva.csproj|c:\\users\\asus\\source\\repos\\takva\\takva\\kaza_namazlari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE694E8-FED6-4CB9-8938-6A3754DEB641}|Takva\\Takva.csproj|solutionrelative:takva\\kaza_namazlari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE694E8-FED6-4CB9-8938-6A3754DEB641}|Takva\\Takva.csproj|c:\\users\\asus\\source\\repos\\takva\\takva\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE694E8-FED6-4CB9-8938-6A3754DEB641}|Takva\\Takva.csproj|solutionrelative:takva\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 131,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "namaz_vakitleri.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Takva\\Takva\\namaz_vakitleri.cs",
+              "RelativeDocumentMoniker": "Takva\\namaz_vakitleri.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Takva\\Takva\\namaz_vakitleri.cs",
+              "RelativeToolTip": "Takva\\namaz_vakitleri.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAcwDsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T12:40:48.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "namaz_vakitleri.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Takva\\Takva\\namaz_vakitleri.cs",
+              "RelativeDocumentMoniker": "Takva\\namaz_vakitleri.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Takva\\Takva\\namaz_vakitleri.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Takva\\namaz_vakitleri.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T12:09:06.697Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "zikirler.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Takva\\Takva\\zikirler.cs",
+              "RelativeDocumentMoniker": "Takva\\zikirler.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Takva\\Takva\\zikirler.cs",
+              "RelativeToolTip": "Takva\\zikirler.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAIwEwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T17:26:03.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "zikirler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Takva\\Takva\\zikirler.cs",
+              "RelativeDocumentMoniker": "Takva\\zikirler.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Takva\\Takva\\zikirler.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Takva\\zikirler.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:05:34.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "kilinan_namazlar.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Takva\\Takva\\kilinan_namazlar.cs",
+              "RelativeDocumentMoniker": "Takva\\kilinan_namazlar.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Takva\\Takva\\kilinan_namazlar.cs",
+              "RelativeToolTip": "Takva\\kilinan_namazlar.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T14:49:57.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "kilinan_namazlar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Takva\\Takva\\kilinan_namazlar.cs",
+              "RelativeDocumentMoniker": "Takva\\kilinan_namazlar.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Takva\\Takva\\kilinan_namazlar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Takva\\kilinan_namazlar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T14:39:00.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "kaza_namazlari.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Takva\\Takva\\kaza_namazlari.cs",
+              "RelativeDocumentMoniker": "Takva\\kaza_namazlari.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Takva\\Takva\\kaza_namazlari.cs",
+              "RelativeToolTip": "Takva\\kaza_namazlari.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T15:12:44.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "kaza_namazlari.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Takva\\Takva\\kaza_namazlari.cs",
+              "RelativeDocumentMoniker": "Takva\\kaza_namazlari.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Takva\\Takva\\kaza_namazlari.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Takva\\kaza_namazlari.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T15:10:52.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Takva\\Takva\\Form3.cs",
+              "RelativeDocumentMoniker": "Takva\\Form3.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Takva\\Takva\\Form3.cs",
+              "RelativeToolTip": "Takva\\Form3.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:51:45.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Takva\\Takva\\Form3.cs",
+              "RelativeDocumentMoniker": "Takva\\Form3.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Takva\\Takva\\Form3.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Takva\\Form3.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:25:16.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Takva\\Takva\\Form2.cs",
+              "RelativeDocumentMoniker": "Takva\\Form2.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Takva\\Takva\\Form2.cs",
+              "RelativeToolTip": "Takva\\Form2.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T22:20:23.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Takva\\Takva\\Form2.cs",
+              "RelativeDocumentMoniker": "Takva\\Form2.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Takva\\Takva\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Takva\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:29:43.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Takva\\Takva\\Form1.cs",
+              "RelativeDocumentMoniker": "Takva\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Takva\\Takva\\Form1.cs",
+              "RelativeToolTip": "Takva\\Form1.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAiwGEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:10:07.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Takva\\Takva\\Form1.cs",
+              "RelativeDocumentMoniker": "Takva\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Takva\\Takva\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Takva\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:03:26.904Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
